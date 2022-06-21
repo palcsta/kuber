@@ -1,2 +1,2 @@
 # kuber
-repo for devopswithkubernetes.com
+repo for devopswithkubernetes.com exercises
